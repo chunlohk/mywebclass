@@ -23,7 +23,7 @@ theirs. The end result is that each partner should have the experience of the te
 ### 3. Both Partners ACCEPT THE Assignment GITHUB to create their own GitHub repo, so each person has the chance to do all the steps and practice makes perfect...
 
 1. Partner 1: Chun Lo[chunlohk](https://github.com/chunlohk)
-2. Partner 2: Brandon Sibanda [bsibanda3](https://github.com/bsibanda3) 
+2. Partner 2: Brandon C. Sibanda [bsibanda3](https://github.com/bsibanda3) 
 3. Partner 3: Optional
 
 Complete this on each partner's repos for this assignment by following the development workflow process bellow. Since
